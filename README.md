@@ -1,3 +1,9 @@
 ## Simple demo javascript 
 
-Live : https://demo-javascript-makmur.vercel.app/
+Live : https://makmur-demo-javascript.vercel.app
+
+run in devTools
+Sample :
+```bash
+isPrime(1,10)
+```
